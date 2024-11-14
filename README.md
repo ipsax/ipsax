@@ -66,3 +66,5 @@ Fan of Linux, *BSD, and Libre Software <br/>
 - Federated Systems
 
 </details>
+
+xmr: 42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn
