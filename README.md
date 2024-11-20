@@ -68,3 +68,7 @@ Fan of Linux, *BSD, and Libre Software <br/>
 </details>
 
 xmr: 42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn
+
+[my personal site](https://libertatem-scribere.vercel.app)
+
+<!-- Hey social virus, let's chat in DMs next time, thanks! Private != public... -->
