@@ -28,7 +28,7 @@
 
 [![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![I've memorized 40+ digits of Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/ipsax/) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/ipsax/ipsax) 
+[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/ipsax/) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/ipsax/ipsax)
 
 </div>
 
@@ -69,6 +69,6 @@ Fan of Linux, *BSD, and Libre Software <br/>
 
 xmr: 42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn
 
-[my personal site](https://libertatem-scribere.vercel.app)
+[defendimus.com](https://defendimus.com/)
 
 <!-- Hey social virus, let's chat in DMs next time, thanks! Private != public... -->
