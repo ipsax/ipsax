@@ -64,7 +64,8 @@ Fan of Linux, *BSD, and Libre Software <br/>
 - Rationalism/Empiricism/Epistemology/etc and looking towards whatever schools of thought are emerging and may come next
 - [Wicked Problems](https://wicked-problem.press.plymouth.edu/chapter/what-is-a-wicked-problem/)
 - Federated Systems
-- [The Neurorights Foundation](https://neurorightsfoundation.org/) & https://www.vox.com/future-perfect/384520/rafael-yuste-neurorights-foundation-brain-initiative-neuroscience-future-perfect-50 ...
+- [The Neurorights Foundation](https://neurorightsfoundation.org/)
+- [SIGINT](https://en.wikipedia.org/wiki/Signals_intelligence)
 
 </details>
 
