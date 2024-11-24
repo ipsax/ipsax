@@ -71,7 +71,9 @@ Fan of Linux, *BSD, and Libre Software <br/>
 
 
 <details open><summary> <strong>Ideas:</strong> </summary>
+  
 - Covert github star/unstar communication mechanisms
+
 </details>
 
 xmr: 42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn
