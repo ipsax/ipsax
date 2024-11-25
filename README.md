@@ -70,7 +70,7 @@ Fan of Linux, *BSD, and Libre Software <br/>
 </details>
 
 
-<details open><summary> <strong>Ideas:</strong> </summary>
+<details closed><summary> <strong>Ideas:</strong> </summary>
   
 - Covert github star/unstar communication mechanisms
 
