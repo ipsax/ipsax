@@ -10,7 +10,7 @@
 
 <p dir="auto">
 
-<img align="right" width="300" alt="img" src="https://wallpaperaccess.com/full/1617926.jpg" style="max-width: 100%;">
+<img align="right" width="420" alt="img" src="https://viking.style/wp-content/uploads/2024/10/Viking-Rune-for-Love-1024x512.jpg" style="max-width: 100%;">
 
 </p>
 
