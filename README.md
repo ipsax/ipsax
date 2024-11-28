@@ -37,7 +37,7 @@
 
 <img height="30" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width: 100%;">
 
-I'm currently working on the <a href="https://github.com/jerlendds/osintbuddy">OSINTBuddy</a> project in my free time.
+I'm currently working on the <a href="https://github.com/graphowls">Graph Owls</a> project in my free time, previously known as the <a href="https://github.com/jerlendds/osintbuddy/issues/68">OSINTBuddy</a> project.
 
 [![github profile last updated](https://img.shields.io/github/last-commit/ipsax/ipsax/main?label=last%20updated&amp;style=flat-square)](https://github.com/ipsax/ipsax/commits)
 
