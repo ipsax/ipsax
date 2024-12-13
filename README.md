@@ -26,9 +26,7 @@
 
 [![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)](https://www.postgresql.org/) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black)](https://webpack.js.org/) [![Docker/Containers](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white)](https://www.docker.com/) [![NeoVim is <3](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/rockerBOO/awesome-neovim)
 
-[![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![I've memorized 40+ digits of Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/thibmaek/awesome-raspberry-pi)
-
-[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/ipsax/) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/graphowls/core)
+[![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![I've memorized 40+ digits of Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/thibmaek/awesome-raspberry-pi) [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/ipsax/) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/graphowls/core)
 
 </div>
 
@@ -76,8 +74,11 @@ Fan of Linux, *BSD, and Libre Software <br/>
 
 </details>
 
-xmr: 42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn
+### Support my work
+    
+  - xmr:`42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn`
+  - btc:`bc1q6ndgmca99lwtxxh5vrqp8yq7e7wkz6drrk23fj`
+  - eth:`0xC91038469d441Daa06B46911471aD0d4015cCBd1`
+
 
 [defendimus.com](https://defendimus.com/)
-
-<!-- Hey social virus, let's chat in DMs next time, thanks! Private != public... -->
