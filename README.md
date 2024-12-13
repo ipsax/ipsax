@@ -76,9 +76,9 @@ Fan of Linux, *BSD, and Libre Software <br/>
 
 ### Support my work
     
-  - xmr:`42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn`
-  - btc:`bc1q6ndgmca99lwtxxh5vrqp8yq7e7wkz6drrk23fj`
-  - eth:`0xC91038469d441Daa06B46911471aD0d4015cCBd1`
+  - XMR:`42RrNAvnCNRSUDKGTodYgo3SDGk5BEcm5EitXYevqvU7Kf9JC8SSt3kKbWchQc4tohVKt66mR7w2VQFA8YQakYRz7axC5Mn`
+  - BTC:`bc1q6ndgmca99lwtxxh5vrqp8yq7e7wkz6drrk23fj`
+  - ETH:`0xC91038469d441Daa06B46911471aD0d4015cCBd1`
 
 
 [defendimus.com](https://defendimus.com/)
